@@ -98,23 +98,18 @@ cd "2D-Game-Development"
 4. Install the APK
 
 ## Screenshots
-### Character Selection
-![Character Selection](demo/monster3.jpg)
-*Main menu with character selection interface*
+### Home
+![Character Selection](demo/monster6.jpg)
 
 ### Gameplay
 ![Gameplay 1](demo/monster2.jpg)
-*Player navigating through the level while avoiding monsters*
 
 ![Gameplay 2](demo/monster4.jpg)
-*Coin collection and score tracking in action*
 
 ![Gameplay 3](demo/monster5.jpg)
-*Multiple monsters approaching the player*
 
 ### Game Over
-![Game Over](demo/monster6.jpg)
-*Game over screen with restart options*
+![Game Over](demo/monster3.jpg)
 
 ## Contributing
 Contributions are welcome! Please follow these guidelines:
